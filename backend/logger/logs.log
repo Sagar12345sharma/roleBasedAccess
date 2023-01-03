@@ -254,3 +254,5 @@
 {"level":"info","message":"Database Connection is ready","service":"user-service","timestamp":"2023-01-03T19:53:59.795Z"}
 {"level":"info","message":"server is running http://localhost:5000","service":"user-service","timestamp":"2023-01-03T19:54:01.541Z"}
 {"level":"info","message":"Database Connection is ready","service":"user-service","timestamp":"2023-01-03T19:54:01.931Z"}
+{"level":"info","message":"server is running http://localhost:5000","service":"user-service","timestamp":"2023-01-03T20:26:34.294Z"}
+{"level":"info","message":"Database Connection is ready","service":"user-service","timestamp":"2023-01-03T20:26:34.697Z"}
